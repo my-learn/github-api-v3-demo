@@ -179,6 +179,14 @@ https://api.github.com/users/maskleo/orgs
 ]
 ```
 
+## 参考
+
+- [一篇文章搞定Github API 调用 (v3）](https://segmentfault.com/a/1190000015144126)
+
+- [Github API v3 -Overview](https://blog.csdn.net/xiaotao745324325/article/details/41621891)
+
+- [GitHub 开发指南](http://wiki.jikexueyuan.com/project/github-developer-guides/getting-started.html)
+
 ## LICENSE
 
 ### [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
